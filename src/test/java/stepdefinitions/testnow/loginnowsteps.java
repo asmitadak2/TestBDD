@@ -1,4 +1,5 @@
-package stepdefinitions;
+package stepdefinitions.testnow;
+
 import java.time.Duration;
 import org.testng.Assert;
 import io.cucumber.java.After;
@@ -7,7 +8,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class testnowstepdefinitions{
+public class loginnowsteps {
 	@Before
 	public void Before(){
 		System.out.println("Before");
@@ -46,7 +47,4 @@ public class testnowstepdefinitions{
 		System.out.println("After");
 	}
 
-
-	
 }
-
