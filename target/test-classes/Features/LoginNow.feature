@@ -10,9 +10,9 @@ Feature: Title of your feature
     Examples: 
       | name  | value | status  |
       | name1 |     5 | success |
-      | name2 |     7 | Fail    |
-      | name2 |     7 | Fail    |
-      | name2 |     7 | Fail    |
+      | name2 |     0 | Fail    |
+      | name2 |     0 | Fail    |
+      | name2 |     9 | Fail    |
       | name2 |     7 | Fail    |
       | name2 |     7 | Fail    |
       | name2 |     7 | Fail    |
