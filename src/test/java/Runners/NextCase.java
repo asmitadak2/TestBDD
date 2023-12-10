@@ -8,5 +8,5 @@ import io.cucumber.testng.CucumberOptions;
 	    plugin = "json:target/cucumber-reports/CucumberTestReport.json")
 
 public class NextCase  extends AbstractTestNGCucumberTests {
-
+//sample commit add
 }
